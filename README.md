@@ -1,1 +1,1 @@
-# Bioinfo_prior2016
+# Bioinformatic projects prior to Dec. 2016
